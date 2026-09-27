@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+
+# Artefatos locais de testes
+.pytest_cache/
+.coverage
+
+# Bancos e backups locais
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.dump
+data/*.backup
