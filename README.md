@@ -1,6 +1,6 @@
 # Steam Review Analyzer
 
-Projeto de portfólio para aprender Python, integração com a API da Steam, persistência em PostgreSQL e análise de avaliações.
+Projeto de portfólio em Python com integração com a API da Steam, persistência em PostgreSQL e análise de avaliações.
 
 ## Jogo inicial
 
